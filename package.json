@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.2.0",
     "fs": "0.0.1-security",
-    "http-errors": "^1.8.0",
+    "http-errors": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
     "momen": "0.0.1-security",
     "moment": "^2.27.0",
